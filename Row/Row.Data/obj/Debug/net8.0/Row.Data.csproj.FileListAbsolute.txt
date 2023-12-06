@@ -1,0 +1,11 @@
+/Users/leo/Documents/Programmieren/C#/Row/Row.Data/bin/Debug/net8.0/Row.Data.deps.json
+/Users/leo/Documents/Programmieren/C#/Row/Row.Data/bin/Debug/net8.0/Row.Data.dll
+/Users/leo/Documents/Programmieren/C#/Row/Row.Data/bin/Debug/net8.0/Row.Data.pdb
+/Users/leo/Documents/Programmieren/C#/Row/Row.Data/obj/Debug/net8.0/Row.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leo/Documents/Programmieren/C#/Row/Row.Data/obj/Debug/net8.0/Row.Data.AssemblyInfoInputs.cache
+/Users/leo/Documents/Programmieren/C#/Row/Row.Data/obj/Debug/net8.0/Row.Data.AssemblyInfo.cs
+/Users/leo/Documents/Programmieren/C#/Row/Row.Data/obj/Debug/net8.0/Row.Data.csproj.CoreCompileInputs.cache
+/Users/leo/Documents/Programmieren/C#/Row/Row.Data/obj/Debug/net8.0/Row.Data.dll
+/Users/leo/Documents/Programmieren/C#/Row/Row.Data/obj/Debug/net8.0/refint/Row.Data.dll
+/Users/leo/Documents/Programmieren/C#/Row/Row.Data/obj/Debug/net8.0/Row.Data.pdb
+/Users/leo/Documents/Programmieren/C#/Row/Row.Data/obj/Debug/net8.0/ref/Row.Data.dll
